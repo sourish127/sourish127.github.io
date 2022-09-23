@@ -77,10 +77,10 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : '../img/sliderimages/image01.jpg', title : '<div class="slide-content">Ritesh Rajnish Mishra</div>', thumb : '', url : ''},
-											{image : '../img/sliderimages/image02.jpg', title : '<div class="slide-content">Ritesh Rajnish Mishra</div>', thumb : '', url : ''},
-											{image : '../img/sliderimages/image03.jpg', title : '<div class="slide-content">Ritesh Rajnish Mishra</div>', thumb : '', url : ''},
-											{image : '../img/sliderimages/image04.jpg', title : '<div class="slide-content">Ritesh Rajnish Mishra</div>', thumb : '', url : ''}  
+											{image : 'https://raw.githubusercontent.com/sourish127/sourish127.github.io/ritraj/ritraj/include/img/sliderimages/image01.jpg', title : '<div class="slide-content">Ritesh Rajnish Mishra</div>', thumb : '', url : ''},
+											{image : 'https://raw.githubusercontent.com/sourish127/sourish127.github.io/ritraj/ritraj/include/img/sliderimages/image02.jpg', title : '<div class="slide-content">Ritesh Rajnish Mishra</div>', thumb : '', url : ''},
+											{image : 'https://raw.githubusercontent.com/sourish127/sourish127.github.io/ritraj/ritraj/include/img/sliderimages/image03.jpg', title : '<div class="slide-content">Ritesh Rajnish Mishra</div>', thumb : '', url : ''},
+											{image : 'https://raw.githubusercontent.com/sourish127/sourish127.github.io/ritraj/ritraj/include/img/sliderimages/image04.jpg', title : '<div class="slide-content">Ritesh Rajnish Mishra</div>', thumb : '', url : ''}  
 									],
 									
 		// Theme Options			   
