@@ -1,0 +1,1209 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if (IE 9)]><html class="no-js ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="en-US">
+  <!--<![endif]-->
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <!-- Meta Tags -->
+    <title>RiteshRajnish.com</title>
+    <meta name="description" content="Insert Your Site Description">
+    <!-- Mobile Specifics -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="320">
+    <!-- Mobile Internet Explorer ClearType Technology -->
+    <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
+    <!-- Bootstrap -->
+    <link href="_include/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Main Style -->
+    <link href="_include/css/main.css" rel="stylesheet">
+    <!-- Supersized -->
+    <link href="_include/css/supersized.css" rel="stylesheet">
+    <link href="_include/css/supersized.shutter.css" rel="stylesheet">
+    <!-- FancyBox -->
+    <link href="_include/css/fancybox/jquery.fancybox.css" rel="stylesheet">
+    <!-- Font Icons -->
+    <link href="_include/css/fonts.css" rel="stylesheet">
+    <!-- Shortcodes -->
+    <link href="_include/css/shortcodes.css" rel="stylesheet">
+    <!-- Responsive -->
+    <link href="_include/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="_include/css/responsive.css" rel="stylesheet">
+    <!-- Supersized -->
+    <link href="_include/css/supersized.css" rel="stylesheet">
+    <link href="_include/css/supersized.shutter.css" rel="stylesheet">
+    <!-- Google Font -->
+    <link href="http://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900"
+
+      rel="stylesheet" type="text/css">
+    <!-- Fav Icon -->
+    <link rel="shortcut icon" href="#">
+    <link rel="apple-touch-icon" href="#">
+    <link rel="apple-touch-icon" sizes="114x114" href="#">
+    <link rel="apple-touch-icon" sizes="72x72" href="#">
+    <link rel="apple-touch-icon" sizes="144x144" href="#">
+    <!-- Modernizr -->
+    <script src="_include/js/modernizr.js"></script>
+    <!-- Analytics -->
+    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'Insert Your Code']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><!-- End Analytics -->
+  </head>
+  <body>
+    <!-- This section is for Splash Screen -->
+    <div class="ole">
+      <section id="jSplash">
+        <div id="circle"></div>
+      </section>
+    </div>
+    <!-- End of Splash Screen --> <audio controls="controls" autoplay="autoplay">
+      <source src="_include/audio/alaap.ogg" type="audio/ogg"> <source src="_include/audio/alaap.mp3"
+
+        type="audio/mpeg"> Your browser does not support the audio element. </audio>
+    <!-- Homepage Slider -->
+    <div id="home-slider">
+      <div class="overlay"></div>
+      <div class="slider-text">
+        <div id="slidecaption"></div>
+      </div>
+      <div class="control-nav"> <a id="prevslide" class="load-item"><i class="font-icon-arrow-simple-left"></i></a>
+        <a id="nextslide" class="load-item"><i class="font-icon-arrow-simple-right"></i></a>
+        <ul id="slide-list">
+        </ul>
+        <a id="nextsection" href="#work"><i class="font-icon-arrow-simple-down"></i></a>
+      </div>
+    </div>
+    <!-- End Homepage Slider -->
+    <!-- Header -->
+    <header>
+      <div class="sticky-nav"> <a id="mobile-nav" class="menu-nav" href="#menu-nav"></a>
+        <div id="logo"> <a id="goUp" href="#home-slider">Ritesh<strong>Rajnish</strong>.com</a>
+        </div>
+        <nav id="menu">
+          <ul id="menu-nav">
+            <li class="current"> <br>
+            </li>
+            <li><a href="#about">ABOUT</a></li>
+            <li><a href="#gharana">GHARANA</a></li>
+            <!--li><a href="#awards">AWARDS</a></li>
+				<li><a href="#moments">MOMENTS</a></li-->
+            <li><a href="#media">MEDIA</a></li>
+            <li><a href="#rasipa">RASIPA</a></li>
+            <li><a href="#swaraangan">SWARAANGAN</a></li>
+            <li><a href="#discography">DISCOGRAPHY</a></li>
+            <li><a href="#contact">CONTACT US</a></li>
+            <!--li><a href="shortcodes.html" class="external">Shortcodes</a></li-->
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <!-- End Header -->
+    <!-- About Section -->
+    <div id="about" class="page-alternate">
+      <!--div class="overlay"></div-->
+      <div class="container">
+        <!--div class="overlay"></div-->
+        <!-- Title Page -->
+        <div class="row">
+          <div class="span12">
+            <div class="overlay"></div>
+            <div class="title-page">
+              <h2 class="title">Masters of a Tradition</h2>
+              <h3 class="title-description">Music has no limits</h3>
+            </div>
+          </div>
+        </div>
+        <!-- End Title Page -->
+        <!-- People -->
+        <div class="row">
+          <!-- Start Profile -->
+          <div class="span12 profile">
+            <!--div class="image-wrap">
+                <div class="hover-wrap">                    <span class="overlay-img"></span>                    <span class="overlay-text-thumb">CTO/Founder</span>                </div>                <img src="_include/img/profile/profile-01.jpg" alt="John Doe">            </div-->
+            <img style="float:left;margin-top:-20px;margin-right:20px;" src="_include/img/music_tradition/excellence.jpg"
+
+              alt="Excellence" width="450px;">
+            <p class="profile-description">Sustaining 'Harmony' in this world of
+              diverse religions and cultures is a dream of the entire humanity.
+              Some good souls have been working tirelessly to make such a dream
+              true in their own styles and beliefs. 'Mishra Bandhu'
+              Rajnish-Ritesh are doing it in the most aesthetic way, singing
+              together, emanating love harmony for the music lovers the world
+              over.</p>
+            <h3 class="profile-name">Excellence of Duet</h3>
+            <!--img style="float:right;margin-top:-20px;" width=200px; src="_include/img/music_tradition/excellence.jpg" alt="Excellence"-->
+            <p class="profile-description">Duet singing in the Indian Classical
+              Music is considered a very difficult art, for it requires not only
+              individual competence but, great amount of self-control to
+              improvise and harmonize at the same time. The maestros due
+              Rajnish-Ritesh Mishra have put in every thing to achieve such
+              excellence under the guidance of the ever great, the 'Sun and
+              Moon' of the Banaras Gharana, Pt. Rajan Misra (Father) and Pt.
+              Sajan Misra (Uncle).</p>
+            <h3 class="profile-name">Legacy of sixth generation</h3>
+            <img style="float:right;margin-top:-20px;" src="_include/img/music_tradition/legacy.jpg"
+
+              alt="Legacy" width="300px;">
+            <p class="profile-description">Enlivening the sixth generation of
+              the family of great musicians, namely Pt. Ram Baksha Misra, Pt.
+              Ganesh Ji Misra, Pt. Sursahai Misra, Pt. Hanuman Misra – Pt. Gopal
+              Misra, Pt. Rajan Misra – Pt. Sajan Misra, Rajnish-Ritesh are also
+              blessed by Gayanacharya Pt. Bade Ramdas Ji Misra, His Holiness
+              Satguru Jagjit Singh Ji and received knowledge of the art from a
+              galaxy of musician relatives and friends. </p>
+            <img style="float:left;margin-top:-20px;margin-right:20px;" src="_include/img/music_tradition/brothers.jpg"
+
+              alt="Brothers" width="350px;">
+            <h3 class="profile-name">The brothers in arms</h3>
+            <!--img style="float:left;margin-top:-20px;margin-right:20px;" width=200px; src="_include/img/music_tradition/brothers.jpg" alt="Brothers"-->
+            <p class="profile-description">The Artist brothers along with their
+              academics (Delhi University) have been learning music since their
+              birth with sounds of Tanpura, Sarangi, Tabla and voices of
+              forefathers vibrating in their home and surroundings. Gifted with
+              a very pleasing voice and sensibility for musical notes they
+              toiled through the strenuous music sessions over the years. With
+              focus on performance factor the duo brothers touch the listeners'
+              heart with melodious voice and sensuous application of notes.
+              Skilled with rich knowledge of Indian Ragas the duos render
+              Khayal, Tappa, Tarana Bhajans and other classical forms, casting a
+              spell on the audience. </p>
+            <h3 class="profile-name">The accolades</h3>
+            <img style="float:right;margin-top:-20px;" src="_include/img/music_tradition/accolades.jpg"
+
+              alt="Accolades" width="300px;">
+            <!--img style="float:right;margin-top:-20px;" width=200px; src="_include/img/music_tradition/accolades.jpg" alt="Accolades"-->
+            <p class="profile-description">They have performed at most
+              prestigious concerts all over the world. Their work with famous
+              composer Micheal Nymen has been released as an album (SANGAM)
+              selling worldwide. They have sung 3rd track "Mahadeva" in the
+              album called 'Rise', that has been nominated for the prestigious
+              'Grammy Awards'. They have given background score to the audio
+              book by Penguine &amp; ANB publisher.</p>
+            <p class="profile-description">They are 'A' grade vocalists of All
+              India Radio and Television. They have been awarded the prestigious
+              'Yuva Ratna Award' for the year 1999. They have also received the
+              prestigious "Bhavishya Jyoti Award" for the year 2007. They have
+              received the prestigious " Sangeet Natak Akademi's Ustad Bismillah
+              Khan Award" for the year 2008. They have been conferred with
+              "Sangeet Samriddhi Samman" for the year 2010. </p>
+            <div class="social">
+              <ul class="social-icons">
+                <li><a href="#"><i class="font-icon-social-twitter"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-dribbble"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-facebook"></i></a><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- End Profile --> </div>
+        <!-- End People --> </div>
+    </div>
+    <!-- End About Section -->
+    <!-- Gharana Section -->
+    <div id="gharana" class="page">
+      <div class="container">
+        <!-- Title Page -->
+        <div class="row">
+          <div class="span12">
+            <div class="overlay"></div>
+            <div class="title-page">
+              <h2 class="title">Gharana</h2>
+              <!--h3 class="title-description">Learn About our Team &amp; Culture.</h3-->
+            </div>
+          </div>
+        </div>
+        <!-- End Title Page -->
+        <!-- People -->
+        <div class="row">
+          <!-- Start Profile -->
+          <div class="span12 profile" style="background:" _include\img\bg\bg-2.jpg";"="">
+            <!--div class="image-wrap">
+                <div class="hover-wrap">                    <span class="overlay-img"></span>                    <span class="overlay-text-thumb">CTO/Founder</span>                </div>                <img src="_include/img/profile/profile-01.jpg" alt="John Doe">            </div>            <h3 class="profile-name">John Doe</h3-->
+            <img style="float:left;margin-top:-20px;margin-right:20px;" src="_include/img/gharana/twoonswing.jpg"
+
+              alt="Excellence" width="450px;">
+            <p class="profile-description">In Hindustani music, a gharānā is a
+              system of social organization which groups musicians who are
+              linked by lineage and/or discipleship and who adhere to a
+              particular musical style.</p>
+            <p class="profile-description">At the heart of the music tradition
+              of a Gharana is the sacred bond of "Guru-Shishya" parampara
+              whereby, the Guru (teacher) passes on his skill base to the
+              Shishya (student). In this context, the term Gharana is basically
+              a practice of carrying forward a rich cultural legacy from one
+              generation to another. </p>
+            <p class="profile-description">Banaras (Varanasi) is the hub of
+              spiritual fervor and since ancient times has been the centre for
+              learning the true essence of Hindustani classical music. Devout
+              Hindus consider Banaras to be a city of enlightenment, where "Lord
+              Shiva" is said to have made his permanent abode since the dawn of
+              creation. Amongst the many vocal Gharanas of India, such as
+              Gwalior, Agra, Kirana Gharana, Jaipur, Rampur Sahaswan, Patiala,
+              Delhi, Bhendi Bazar, Bishnupur of Bengal, Mewati and the Sufiana
+              Gharana of Kashmir - the Banaras Gharana is undoubtedly the jewel
+              in India’s music crown. </p>
+            <img style="float:right;margin-top:-20px;" src="_include/img/gharana/sankat-mochan.jpg"
+
+              alt="Accolades" width="300px;">
+            <p class="profile-description">Over the years, the Banaras Gharana
+              has produced a galaxy of outstanding vocal, instrumental and dance
+              performers including Pt. Hanuman Prasad Misra, Pt. Gopal Misra,
+              Pt. Samta Prasad Misra, Pt. Mahadev Misra, Smt. Alaknanda Devi,
+              Ustd. Bismillah Khan,Pt. Gopi Kishan, Pt. Birju Maharaj, Pt.
+              Ravishanker, Pt. Kishan Maharaj, Pt. Rajan Misra, Pt. Sajan Misra,
+              Smt. Girja Devi, Smt. Sitara Devi, Smt. N. Rajan and several
+              others. And many of these maestros continue to believe that it was
+              Banaras that made them and their music.</p>
+            <p class="profile-description">Brothers Rajnish and Ritesh Mishra –
+              known for their ability to create heavenly music that soothes the
+              mind, body and soul, hail from the ancient city of Banaras and
+              represent the tradition of Banaras Gharana named after Ritesh Rajnish Mishra.</p>
+          </div>
+          <!-- End Profile --> </div>
+        <!-- End People --> </div>
+    </div>
+    <!-- End Gharana Section -->
+    <!-- Media Section -->
+    <div id="media" class="page">
+      <div class="container">
+        <!-- Title Page -->
+        <div class="row">
+          <div class="span12">
+            <div class="overlay"></div>
+            <div class="title-page">
+              <h2 class="title">Media</h2>
+              <h3 class="title-description">Check Out Our Projects on <a href="#">Dribbble</a>.</h3>
+            </div>
+          </div>
+        </div>
+        <!-- End Title Page -->
+        <!-- Portfolio Projects -->
+        <div class="row">
+          <div class="span3">
+            <!-- Filter -->
+            <nav id="options" class="work-nav">
+              <ul id="filters" class="option-set" data-option-key="filter">
+                <li class="type-work">Type of Work</li>
+                <li><a href="#filter" data-option-value="*" class="selected">All</a></li>
+                <li><a href="#filter" data-option-value=".awards">Awards</a></li>
+                <li><a href="#filter" data-option-value=".pressclips">Press
+                    Clips</a></li>
+                <li><a href="#filter" data-option-value=".moments">Moments</a></li>
+              </ul>
+            </nav>
+            <!-- End Filter --> </div>
+          <div class="span9">
+            <div class="row">
+              <section id="projects">
+                <ul id="thumbs">
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 awards">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/awards/award3.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/awards/award3.jpg"
+
+                      alt="THE PRESTIGIOUS “SANGEET NATAK AKADEMI’S USTAD BISMILLAH KHAN AWARD” FOR THE YEAR 2008.">
+                  </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/press/pressclip1.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip1.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 awards">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/awards/award2.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/awards/award2.jpg"
+
+                      alt="THE PRESTIGIOUS “BHAVISHYA JYOTI AWARD” FOR THE YEAR 2007.">
+                  </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 awards">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/awards/award1.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/awards/award1.jpg"
+
+                      alt="THE PRESTIGIOUS “YUVA RATNA AWARD” FOR THE YEAR 1999.">
+                  </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 moments">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/moments/_NI_1769_pp.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/moments/_NI_1769_pp.jpg"
+
+                      alt=""> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 moments">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/moments/moment%20%281%29.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/moments/moment%20%281%29.jpg"
+
+                      alt=""> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 moments">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/moments/moment%20%282%29.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/moments/moment%20%282%29.jpg"
+
+                      alt=""> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 moments">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/moments/moment%20%283%29.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/moments/moment%20%283%29.jpg"
+
+                      alt=""> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/press/pressclip2.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip2.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/press/pressclip3.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip3.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 moments">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/moments/moment%20%284%29.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/moments/moment%20%284%29.jpg"
+
+                      alt=""> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 moments">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/moments/moment%20%285%29.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/moments/moment%20%285%29.jpg"
+
+                      alt=""> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 moments">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/moments/moment%20%286%29.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/moments/moment%20%286%29.jpg"
+
+                      alt=""> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 moments">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/moments/moment%20%287%29.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/moments/moment%20%287%29.jpg"
+
+                      alt=""> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 moments">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/moments/moment%20%288%29.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/moments/moment%20%288%29.jpg"
+
+                      alt=""> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 moments">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/moments/moment%20%289%29.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/moments/moment%20%289%29.jpg"
+
+                      alt=""> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/press/pressclip4.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip4.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/press/pressclip5.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip5.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/press/pressclip6.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip6.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/media/press/pressclip7.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip7.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/work/full/image-01-full.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip8.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/work/full/image-01-full.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip9.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/work/full/image-01-full.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip10.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/work/full/image-01-full.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip11.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/work/full/image-01-full.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip12.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/work/full/image-01-full.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip13.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/work/full/image-01-full.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip14.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/work/full/image-01-full.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip15.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                  <!-- Item Media and Filter Name -->
+                  <li class="item-thumbs span2 pressclips">
+                    <!-- Fancybox - Gallery Enabled - Title - Full Image --> <a
+
+                      class="hover-wrap fancybox" data-fancybox-group="gallery"
+
+                      title="Ritesh Rajnish Mishra" href="_include/img/work/full/image-01-full.jpg">
+                      <span class="overlay-img"></span> <span class="overlay-img-thumb font-icon-plus"></span>
+                    </a>
+                    <!-- Thumb Image and Description --> <img src="_include/img/media/press/pressclip16.jpg"
+
+                      alt="Press Clipping"> </li>
+                  <!-- End Item Media -->
+                </ul>
+              </section>
+            </div>
+          </div>
+        </div>
+        <!-- End Portfolio Projects --> </div>
+    </div>
+    <!-- End Media Section -->
+    <!-- Rasipa Section -->
+    <div id="rasipa" class="page-rasipa">
+      <div class="container">
+        <!-- Title Page -->
+        <div class="row">
+          <div class="span12">
+            <div class="overlay"></div>
+            <div class="title-page">
+              <h2 class="title"><img src="_include/img/rasipa_logo.png" width="300"></h2>
+              <h3 class="title-description">..proudly presents an exclusive
+                classes of Indian Classical Music &amp; Dance under the able
+                guidance of</h3>
+              <h3 class="title-description"><b>Ritesh-Rajnish Mishra | Swaransh
+                  Mishra</b></h3>
+              <h3 class="title-description">Learn About our Team &amp; <b><u>RASIPA.com.</u></b></h3>
+            </div>
+          </div>
+        </div>
+        <!-- End Title Page -->
+        <!-- People -->
+        <div class="row">
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Rasipa Children Dance performance</span>
+              </div>
+              <img src="_include/img/rasipa/dance1.jpg" alt="Rasipa Dancers"> </div>
+            <!--h3 class="profile-name">John Doe</h3>
+            <p class="profile-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat <a href="#">hendrerit dictum</a>.             Praesent porta, purus eget sagittis imperdiet, nulla mi ullamcorper metus, id hendrerit metus diam vitae est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>            	            <div class="social">            	<ul class="social-icons">                	<li><a href="#"><i class="font-icon-social-twitter"></i></a></li>                    <li><a href="#"><i class="font-icon-social-dribbble"></i></a></li>                    <li><a href="#"><i class="font-icon-social-facebook"></i></a></li>                </ul>            </div-->
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Masetros: Ritesh, Rajneesh and
+                  Swaransh Mishra</span> </div>
+              <img src="_include/img/rasipa/ritraj1.jpg" alt="Jane Helf"> </div>
+            <!--h3 class="profile-name">Jane Helf</h3>
+            <p class="profile-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat <a href="#">hendrerit dictum</a>.             Praesent porta, purus eget sagittis imperdiet, nulla mi ullamcorper metus, id hendrerit metus diam vitae est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>            	            <div class="social">            	<ul class="social-icons">                	<li><a href="#"><i class="font-icon-social-twitter"></i></a></li>                    <li><a href="#"><i class="font-icon-social-email"></i></a></li>                </ul>            </div-->
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Rasipa's young dancers</span> </div>
+              <img src="_include/img/rasipa/group1.jpg" alt="Joshua Insanus"> </div>
+            <!--h3 class="profile-name">Joshua Insanus</h3>
+            <p class="profile-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat <a href="#">hendrerit dictum</a>.             Praesent porta, purus eget sagittis imperdiet, nulla mi ullamcorper metus, id hendrerit metus diam vitae est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>            	            <div class="social">            	<ul class="social-icons">                	<li><a href="#"><i class="font-icon-social-twitter"></i></a></li>                    <li><a href="#"><i class="font-icon-social-linkedin"></i></a></li>                    <li><a href="#"><i class="font-icon-social-google-plus"></i></a></li>                    <li><a href="#"><i class="font-icon-social-vimeo"></i></a></li>                </ul>            </div-->
+          </div>
+          <!-- End Profile --> </div>
+        <!-- People -->
+        <div class="row">
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Harshotsav 2015</span> </div>
+              <img src="_include/img/rasipa/harshotsav2015.jpg" alt="Rasipa Dancers">
+            </div>
+            <!--h3 class="profile-name">John Doe</h3>
+            <p class="profile-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat <a href="#">hendrerit dictum</a>.             Praesent porta, purus eget sagittis imperdiet, nulla mi ullamcorper metus, id hendrerit metus diam vitae est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>            	            <div class="social">            	<ul class="social-icons">                	<li><a href="#"><i class="font-icon-social-twitter"></i></a></li>                    <li><a href="#"><i class="font-icon-social-dribbble"></i></a></li>                    <li><a href="#"><i class="font-icon-social-facebook"></i></a></li>                </ul>            </div-->
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Harshotsav 2016</span> </div>
+              <img src="_include/img/rasipa/harshotsav2016.jpg" alt="Jane Helf">
+            </div>
+            <!--h3 class="profile-name">Jane Helf</h3>
+            <p class="profile-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat <a href="#">hendrerit dictum</a>.             Praesent porta, purus eget sagittis imperdiet, nulla mi ullamcorper metus, id hendrerit metus diam vitae est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>            	            <div class="social">            	<ul class="social-icons">                	<li><a href="#"><i class="font-icon-social-twitter"></i></a></li>                    <li><a href="#"><i class="font-icon-social-email"></i></a></li>                </ul>            </div-->
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Rasipa Press Clippings</span> </div>
+              <img src="_include/img/rasipa/press1.jpg" alt="Joshua Insanus"> </div>
+            <!--h3 class="profile-name">Joshua Insanus</h3>
+            <p class="profile-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat <a href="#">hendrerit dictum</a>.             Praesent porta, purus eget sagittis imperdiet, nulla mi ullamcorper metus, id hendrerit metus diam vitae est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>            	            <div class="social">            	<ul class="social-icons">                	<li><a href="#"><i class="font-icon-social-twitter"></i></a></li>                    <li><a href="#"><i class="font-icon-social-linkedin"></i></a></li>                    <li><a href="#"><i class="font-icon-social-google-plus"></i></a></li>                    <li><a href="#"><i class="font-icon-social-vimeo"></i></a></li>                </ul>            </div-->
+          </div>
+          <!-- End Profile --> </div>
+        <!-- End People --> </div>
+    </div>
+    <!-- End Rasipa Section -->
+    <!-- Swaraangan Section -->
+    <div id="swaraangan" class="page-rasipa">
+      <div class="container">
+        <!-- Title Page -->
+        <div class="row">
+          <div class="span12">
+            <div class="overlay"></div>
+            <div class="title-page">
+              <h2 class="title"><img src="_include/img/swaraangan_logo.png" width="620"></h2>
+              <h3 class="title-description"><b>'Swaraangan'</b> (earlier known
+                as <b>Viraam Gurukul Society</b>) has been conceptulised and
+                managed by <b>Pt. Rajnish Mishra (Son of PadmaBhushan Pt. Rajan
+                  Mishra)</b> at Pleasant Valley. Dehradun, to set up a cradle
+                to nurture Indian Classical Music in the age old tradition of
+                'Guru-Shishya Parampara' at Devbhumi of Uttarakhand. </h3>
+              <h3 class="title-description"><b>Swaraangan</b> is a non-profit,
+                registered society that conducts monthly 'Baithak' which is
+                first of it's kind experiment of presenting music in an informal
+                and personalised format.</h3>
+              <h3 class="title-description">Download the official porfolio <b><a
+
+                    href="Swaraangan_PPT.ppsx"><u>here</u></a></b></h3>
+            </div>
+          </div>
+        </div>
+        <!-- End Title Page -->
+        <!-- People -->
+        <div class="row">
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Managed by Pt. Rajnish Mishra</span>
+              </div>
+              <img src="_include/img/swaraangan/rajnish1.jpg" alt="John Doe"> </div>
+            <h3 class="profile-name">John Doe</h3>
+            <div class="social">
+              <ul class="social-icons">
+                <li><a href="#"><i class="font-icon-social-twitter"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-dribbble"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-facebook"></i></a><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Viraam - The Gurukul</span> </div>
+              <img src="_include/img/swaraangan/viraam1.jpg" alt="Jane Helf"> </div>
+            <h3 class="profile-name">Jane Helf</h3>
+            <div class="social">
+              <ul class="social-icons">
+                <li><a href="#"><i class="font-icon-social-twitter"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-email"></i></a><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Swaraangan Baithaks</span> </div>
+              <img src="_include/img/swaraangan/baithaks.jpg" alt="Joshua Insanus">
+            </div>
+            <h3 class="profile-name">Joshua Insanus</h3>
+            <div class="social">
+              <ul class="social-icons">
+                <li><a href="#"><i class="font-icon-social-twitter"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-linkedin"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-google-plus"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-vimeo"></i></a><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- End Profile --> </div>
+        <!-- People -->
+        <div class="row">
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Swarnaangan 2013</span> </div>
+              <img src="_include/img/swaraangan/swaraangan2013.jpg" alt="John Doe">
+            </div>
+            <h3 class="profile-name">John Doe</h3>
+            <div class="social">
+              <ul class="social-icons">
+                <li><a href="#"><i class="font-icon-social-twitter"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-dribbble"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-facebook"></i></a><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Swaraangan 2014</span> </div>
+              <img src="_include/img/swaraangan/swaraangan2014.jpg" alt="Jane Helf">
+            </div>
+            <h3 class="profile-name">Jane Helf</h3>
+            <div class="social">
+              <ul class="social-icons">
+                <li><a href="#"><i class="font-icon-social-twitter"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-email"></i></a><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb">Swaraangan Event</span> </div>
+              <img src="_include/img/swaraangan/Swaraangan.jpg" alt="Joshua Insanus">
+            </div>
+            <h3 class="profile-name">Joshua Insanus</h3>
+            <div class="social">
+              <ul class="social-icons">
+                <li><a href="#"><i class="font-icon-social-twitter"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-linkedin"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-google-plus"></i></a><br>
+                </li>
+                <li><a href="#"><i class="font-icon-social-vimeo"></i></a><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- End Profile --> </div>
+        <!-- End People --> </div>
+    </div>
+    <!-- End Swaraangan Section -->
+    <!-- Discography Section -->
+    <div id="discography" class="page-alternate">
+      <div class="container">
+        <!-- Title Page -->
+        <div class="row">
+          <div class="span12">
+            <div class="overlay"></div>
+            <div class="title-page">
+              <h2 class="title">Discography</h2>
+              <!--h3 class="title-description"></h3--> </div>
+          </div>
+        </div>
+        <!-- End Title Page -->
+        <!-- People -->
+        <div class="row">
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb"> <b>VIRAASAT</b><br>
+                  SUMANI MUSIC USA<br>
+                  Released: September 2005<br>
+                  Country: USA: CLASSICAL<br>
+                </span> </div>
+              <img src="_include/img/ritrajCDcovers/CDcover1.jpg" alt="John Doe">
+            </div>
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb"> <b>KUL SAMPADA</b><br>
+                  N.A. CLASSICAL BMG CRESCENDO<br>
+                  Released: April 2001<br>
+                  Country: INDIA: CLASSICAL<br>
+                </span> </div>
+              <img src="_include/img/ritrajCDcovers/CDcover2.jpg" alt="John Doe">
+            </div>
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb"> <b>AUDIO BOOK</b><br>
+                  ANB PUBLISHERS &amp; PENGUINE INDIA PVT. LTD.<br>
+                  Released: March 2003<br>
+                  Country: INDIA: DEVOTIONAL<br>
+                </span> </div>
+              <img src="_include/img/ritrajCDcovers/CDcover3.jpg" alt="John Doe">
+            </div>
+          </div>
+          <!-- End Profile --> </div>
+        <!-- End People -->
+        <!-- People -->
+        <div class="row">
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb"> <b>RISE (GRAMMY AWARD NOMINEE)</b><br>
+                  ANGEL RECORDS USA<br>
+                  Released: February 2006<br>
+                  Country: INDIA: WORLD MUSIC<br>
+                </span> </div>
+              <img src="_include/img/ritrajCDcovers/CDcover4.jpg" alt="John Doe">
+            </div>
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb"> <b>SANGAM</b><br>
+                  WARNER CLASSICS USA<br>
+                  Released: February 2002<br>
+                  Country: LONDON: SEMI-CLASSICAL<br>
+                </span> </div>
+              <img src="_include/img/ritrajCDcovers/CDcover5.jpg" alt="John Doe">
+            </div>
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb"> <b>LIVE IN HOUSTON</b><br>
+                  RASIPA<br>
+                  Released: October 2005<br>
+                  Country: INDIA: CLASSICAL<br>
+                </span> </div>
+              <img src="_include/img/ritrajCDcovers/CDcover6.jpg" alt="John Doe">
+            </div>
+          </div>
+          <!-- End Profile --> </div>
+        <!-- End People -->
+        <!-- People -->
+        <div class="row">
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb"> <b>KULASAMPADA (THREE GENERATIONS
+                    TOGHETHER)</b><br>
+                  MYSTICA MUSIC<br>
+                  Released: August 2009<br>
+                  Country: INDIA: CLASSICAL<br>
+                </span> </div>
+              <img src="_include/img/ritrajCDcovers/CDcover7.jpg" alt="John Doe">
+            </div>
+          </div>
+          <!-- End Profile -->
+          <!-- Start Profile -->
+          <div class="span4 profile">
+            <div class="image-wrap">
+              <div class="hover-wrap"> <span class="overlay-img"></span> <span
+
+                  class="overlay-text-thumb"> <strong>24 RARE GAYATRI MANTRAS</strong><br>
+                  BMG CRESENDO<br>
+                  Released: December 1997<br>
+                  Country: INDIA: DEVOTIONAL<br>
+                </span> </div>
+              <!--img src="_include/img/ritrajCDcovers/CDcover1.jpg" alt="John Doe"-->
+            </div>
+          </div>
+          <!-- End Profile --> </div>
+        <!-- End People --> </div>
+    </div>
+    <!-- End Discography Section -->
+    <!-- Contact Section -->
+    <div id="contact" class="page">
+      <div class="container">
+        <!-- Title Page -->
+        <div class="row">
+          <div class="span12">
+            <div class="overlay"></div>
+            <div class="title-page">
+              <h2 class="title">Contact Us</h2>
+              <!--h3 class="title-description">We’re currently accepting new client projects. We look forward to serving you.</h3-->
+            </div>
+          </div>
+        </div>
+        <!-- End Title Page -->
+        <!-- Contact Form -->
+        <div class="row">
+          <div class="span9">
+            <form id="contact-form" class="contact-form" action="#">
+              <p class="contact-name"> <input id="contact_name" placeholder="Full Name"
+
+                  value="" name="name" type="text"> </p>
+              <p class="contact-email"> <input id="contact_email" placeholder="Email Address"
+
+                  value="" name="email" type="text"> </p>
+              <p class="contact-message"> <textarea id="contact_message" placeholder="Your Message"
+
+name="message" rows="15" cols="40"></textarea> </p>
+              <p class="contact-submit"> <a id="contact-submit" class="submit"
+
+                  href="#">Send Your Email</a> </p>
+              <div id="response"> </div>
+            </form>
+          </div>
+          <div class="span3">
+            <div class="contact-details">
+              <h3>Contact Details</h3>
+              <ul>
+                <li>SWARANGAN</li>
+                <li> 2/53, Ramesh Nagar,<br>
+                  New Delhi – 110015 <br>
+                  India<br>
+                </li>
+                <li>Mobile:<br>
+                  9868247586<br>
+                  9999797115</li>
+                <li>e-mail:<br>
+                  <a href="#">masters@riteshrajnish.com</a><br>
+                  <a href="#">riteshrajnish@gmail.com</a><br>
+                  <a href="#">ritesh_rajnish@yahoo.com</a><br>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!-- End Contact Form --> </div>
+    </div>
+    <!-- End Contact Section -->
+    <!-- Socialize -->
+    <div id="social-area" class="page">
+      <div class="container">
+        <div class="row">
+          <div class="span12">
+            <nav id="social">
+              <ul>
+                <li><a href="https://twitter.com/Bluxart" title="Follow Me on Twitter"
+
+                    target="_blank"><span class="font-icon-social-twitter"></span></a><br>
+                </li>
+                <li><a href="https://www.facebook.com/Bluxart" title="Follow Me on Facebook"
+
+                    target="_blank"><span class="font-icon-social-facebook"></span></a><br>
+                </li>
+                <li><a href="https://plus.google.com/105500420878314068694" title="Follow Me on Google Plus"
+
+                    target="_blank"><span class="font-icon-social-google-plus"></span></a><br>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Socialize -->
+    <!-- Footer -->
+    <footer>
+      <p class="credits">©2016 Crafted by <a href="#">Team Rasipa</a></p>
+    </footer>
+    <!-- End Footer -->
+    <!-- Back To Top --> <a id="back-to-top" href="#"> </a>
+    <!-- End Back to Top -->
+    <!-- Js -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <!-- jQuery Core -->
+    <script src="_include/js/bootstrap.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="_include/js/supersized.3.2.7.min.js"></script>
+    <!-- Slider -->
+    <script src="_include/js/waypoints.js"></script>
+    <!-- WayPoints -->
+    <script src="_include/js/waypoints-sticky.js"></script>
+    <!-- Waypoints for Header -->
+    <script src="_include/js/jquery.isotope.js"></script>
+    <!-- Isotope Filter -->
+    <script src="_include/js/jquery.fancybox.pack.js"></script>
+    <!-- Fancybox -->
+    <script src="_include/js/jquery.fancybox-media.js"></script>
+    <!-- Fancybox for Media -->
+    <script src="_include/js/jquery.tweet.js"></script>
+    <!-- Tweet -->
+    <script src="_include/js/plugins.js"></script>
+    <!-- Contains: jPreloader, jQuery Easing, jQuery ScrollTo, jQuery One Page Navi -->
+    <script src="_include/js/main.js"></script>
+    <!-- Default JS -->
+    <!-- End Js -->
+  </body>
+</html>
